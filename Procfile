@@ -1,1 +1,1 @@
-/usr/local/bin/node bruhtop/server.js
+node server.js
